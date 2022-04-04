@@ -1,0 +1,60 @@
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\TimeTests\obj\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\bin\Debug\TimeTests.exe.config
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\bin\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\bin\Debug\TimeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\bin\Debug\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\bin\Debug\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\obj\Debug\TimeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\obj\Debug\TimeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\obj\Debug\TimeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\obj\Debug\TimeTests.exe
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\TimeTests\obj\Debug\TimeTests.pdb

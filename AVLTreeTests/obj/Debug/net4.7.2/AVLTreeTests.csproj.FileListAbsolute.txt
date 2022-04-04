@@ -1,0 +1,114 @@
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.reporters.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.runner.utility.net452.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\AVLTreeTests.pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\bin\Debug\net4.7.2\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTreeTests\obj\Debug\net4.7.2\AVLTreeTests.pdb

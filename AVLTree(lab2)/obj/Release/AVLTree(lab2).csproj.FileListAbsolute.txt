@@ -1,0 +1,74 @@
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.assert.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.core.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.abstractions.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.assert.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.core.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\bin\Release\xunit.execution.desktop.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) - Copy - Copy - Copy - Copy\AVLTree(lab2)\obj\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\AVLTree(lab2).pdb
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.abstractions.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.assert.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.core.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.execution.desktop.dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.abstractions.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.assert.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.core.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\bin\Release\xunit.execution.desktop.xml
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\obj\Release\AVLTree(lab2).csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\obj\Release\AVLTree(lab2).csproj.CopyComplete
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\obj\Release\AVLTree(lab2).dll
+C:\Users\Vladimir\source\repos\MP\Sem6\AVLTree(lab2) (kinda works)\AVLTree(lab2)\obj\Release\AVLTree(lab2).pdb
